@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjean95
-- 👀 I’m interested in Boxing, Pretty websites...
-- 🌱 I’m currently learning Fontend Development
-- 💞️ I’m looking to collaborate on Big Data Project
+- 👀 I’m interested in Boxing, Pretty websites, Hiking...
+- 🌱 I’m currently learning FullStack Development
+- 💞️ I’m looking to collaborate on any project involving web/app development
 - 📫 How to reach me (unavailable🤣)
 
 <!---

@@ -37,6 +37,11 @@ A little introduction:
   <a href="https://github.com/jjean95/github-readme-stats">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjean95&layout=compact" />
 </a>  
+
+
+---
+
+![Snake animation](jjean95) 
 <!---
 jjean95/jjean95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

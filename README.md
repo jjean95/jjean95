@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @jjean95
+# 👋 Hi, I’m Jia Ean, @jjean95
 
 A little introduction:
 - 👀 I’m interested in Boxing, Pretty websites, Hiking...

@@ -40,6 +40,7 @@ A little introduction:
 
 
 ---
+Watch my contribution grid get by eaten by snake! :snake:
 
 ![Snake animation](https://github.com/jjean95/jjean95/blob/output/github-contribution-grid-snake.svg)
 <!---

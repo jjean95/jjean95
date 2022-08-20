@@ -10,7 +10,7 @@ A little introduction:
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
    <a href="https://medium.com/@jjean_78508">
   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
-     <a href="https://https://www.kaggle.com/jjean95">
+     <a href="https://www.kaggle.com/jjean95">
   <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a>
   
 </div>

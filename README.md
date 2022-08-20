@@ -1,8 +1,11 @@
 # 👋 Hi, I’m @jjean95
+
+A little introduction:
 - 👀 I’m interested in Boxing, Pretty websites, Hiking...
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking for collaborate on any project involving data analytics and data science
 - 📫 How to reach me: jjeangoh@gmail.com
+
 <a href="https://github.com/jjean95/github-readme-stats">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jjean95&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>

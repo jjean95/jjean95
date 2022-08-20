@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jjean95
+# 👋 Hi, I’m @jjean95
 - 👀 I’m interested in Boxing, Pretty websites, Hiking...
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking for collaborate on any project involving data analytics and data science

@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Jia Ean, @jjean95
 
-A little introduction:
+A little introduction about me:
 - 👀 I’m interested in Boxing, Pretty websites, Hiking...
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking for collaborate on any project involving data analytics and data science
+- 💞️ I’m looking for collaboration on any project involving data analytics and data science :)
 - 📫 How to reach me: jjeangoh@gmail.com
 <div id="badges">
   <a href="https://www.linkedin.com/in/jia-ean-goh-66692a150/">

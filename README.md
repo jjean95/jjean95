@@ -1,6 +1,6 @@
 # :sparkles:  Welcome to my GitHub page :sparkles:
 ## 👋 Hi, I’m Jia Ean, @jjean95 :octocat:
-A little introduction about me:
+### A little introduction about me:
 - 👀 I’m interested in Boxing, Pretty websites, Hiking...
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking for collaboration on any project involving data analytics and data science :)
@@ -30,6 +30,11 @@ A little introduction about me:
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+### :pencil: Currently learning: 
+- DataCamp Power BI :bar_chart:
+- Google Data Analytics Certification :bar_chart:
 ---
 
 ### :chart_with_upwards_trend: Statistics : 

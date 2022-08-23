@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Jia Ean, @jjean95
-
+# :sparkles:  Welcome to my GitHub page :sparkles:
+## 👋 Hi, I’m Jia Ean, @jjean95 :octocat:
 A little introduction about me:
 - 👀 I’m interested in Boxing, Pretty websites, Hiking...
 - 🌱 I’m currently learning Data Analytics

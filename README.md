@@ -31,10 +31,12 @@
 </div>
 
 ---
+### :trophy: Certified
+- Google Data Analytics Certification :bar_chart:
 
 ### :pencil: Currently learning: 
 - DataCamp Power BI :bar_chart:
-- Google Data Analytics Certification :bar_chart:
+
 ---
 
 ### :chart_with_upwards_trend: Statistics : 

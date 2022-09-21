@@ -36,7 +36,7 @@
 
 ### :pencil: Currently learning: 
 - DataCamp Power BI :bar_chart:
-
+- Google Project Management Certification :open_file_folder:
 ---
 
 ### :chart_with_upwards_trend: Statistics : 

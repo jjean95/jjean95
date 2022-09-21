@@ -32,6 +32,7 @@
 
 ---
 ### :trophy: Certified
+- TalentLabs Foundation Certificate in Data Analytics :bar_chart:
 - Google Data Analytics Certification :bar_chart:
 
 ### :pencil: Currently learning: 

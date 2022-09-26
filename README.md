@@ -1,7 +1,7 @@
 # :sparkles:  Welcome to my GitHub page :sparkles:
 ## 👋 Hi, I’m Jia Ean, @jjean95 :octocat:
 ### A little introduction about me:
-- 👀 I’m interested in Boxing, Pretty websites, Hiking...
+- 👀 I’m interested in Boxing, Pretty websites, Flag Football, Freediving...
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking for collaboration on any project involving data analytics and data science :)
 - 📫 How to reach me: jjeangoh@gmail.com

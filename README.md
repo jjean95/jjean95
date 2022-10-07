@@ -1,5 +1,5 @@
 # :sparkles:  Welcome to my GitHub page :sparkles:
-## 👋 Hi, I’m Jia Ean, @jjean95 :octocat:
+## 👋 Hi, I’m Jia Ean, AKA @jjean95 :octocat:
 ### A little introduction about me:
 - 👀 I’m interested in Boxing, Pretty websites, Flag Football, Freediving...
 - 🌱 I’m currently learning Data Analytics

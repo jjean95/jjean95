@@ -58,7 +58,7 @@ Watch my contribution grid get by eaten by snake! :snake:
 
 <p align='center'>
  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
- </p>
+</p>
 <!---
 jjean95/jjean95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

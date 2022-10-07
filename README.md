@@ -46,7 +46,7 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jjean95&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/jjean95/github-readme-stats">
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjean95&layout=compact" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjean95&layout=compact" />
 </a>  
 
 

@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
      <a href="https://www.kaggle.com/jjean95">
   <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/></a>
-   <a href="https://www.kaggle.com/jjean95">
-  <img src="https://img.shields.io/badge/Carrd-blue?style=for-the-badge&logo=carrd&logoColor=white" alt="Carrd Badge"/></a>
+   <a href="https://jiaeangoh.carrd.co/">
+  <img src="https://img.shields.io/badge/Carrd-purple?style=for-the-badge&logo=carrd&logoColor=white" alt="Carrd Badge"/></a>
 </div>
 
 ---

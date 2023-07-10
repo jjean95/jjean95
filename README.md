@@ -37,9 +37,8 @@
 - Google Data Analytics Certification :bar_chart:
 
 ### :pencil: Currently learning: 
-- DataCamp Power BI :bar_chart:
-- DataCamp Tableau :bar_chart:
-- Google Project Management Certification :open_file_folder:
+- Google UX Design Certification :open_file_folder:
+- Google Digital Marketing Certification :open_file_folder:
 ---
 
 ### :chart_with_upwards_trend: Statistics : 

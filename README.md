@@ -56,6 +56,13 @@
 
 [Link to Tableau Dashboard](https://public.tableau.com/shared/C6TF7CC35?:display_count=n&:origin=viz_share_link)
 
+2. [Malaysia General Election Dashboard]()
+
+[Link to Tableau Dashboard](https://public.tableau.com/views/MalaysiaGeneralElection15/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+3. [Handover Shift App](https://github.com/jjean95/WIN-Mentorship-Hackathon)
+
+[Link to Flutter Emulator](https://flutlab.io/sandbox/33e6e43a-183f-4bcf-ad0d-8a28dec5dd3f)
 
 
 ---
